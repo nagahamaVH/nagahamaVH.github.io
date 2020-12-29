@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exploratory Analysis on Victor Nagahama</title>
+    <link>nagahamaVH.github.io/tags/exploratory-analysis/</link>
+    <description>Recent content in Exploratory Analysis on Victor Nagahama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="nagahamaVH.github.io/tags/exploratory-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Understanding the data in data science problems</title>
+      <link>nagahamaVH.github.io/posts/data-understanding-in-data-science/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>nagahamaVH.github.io/posts/data-understanding-in-data-science/</guid>
+      <description>In the last weeks I&amp;rsquo;ve started a selection process in a data science course sponsored by Codenation. To join in this program it&amp;rsquo;s necessary to be approved on the selection challenge, which was to predict the math scores of students of ENEM 2016.
+ENEM is a college entrance exam applied in Brazil, students can get a position in public universities or a financial support. ENEM is the second biggest exam in the world.</description>
+    </item>
+    
+  </channel>
+</rss>
