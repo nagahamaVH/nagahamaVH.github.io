@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Victor Nagahama</title>
-    <link>nagahamaVH.github.io/tags/r/</link>
+    <link>/tags/r/</link>
     <description>Recent content in R on Victor Nagahama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="nagahamaVH.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Understanding the data in data science problems</title>
-      <link>nagahamaVH.github.io/posts/data-understanding-in-data-science/</link>
+      <link>/posts/data-understanding-in-data-science/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>nagahamaVH.github.io/posts/data-understanding-in-data-science/</guid>
+      <guid>/posts/data-understanding-in-data-science/</guid>
       <description>In the last weeks I&amp;rsquo;ve started a selection process in a data science course sponsored by Codenation. To join in this program it&amp;rsquo;s necessary to be approved on the selection challenge, which was to predict the math scores of students of ENEM 2016.
 ENEM is a college entrance exam applied in Brazil, students can get a position in public universities or a financial support. ENEM is the second biggest exam in the world.</description>
     </item>
     
     <item>
       <title>Finding the Dream Team in FIFA 20 using Linear Programming</title>
-      <link>nagahamaVH.github.io/posts/dream-team-fifa20/</link>
+      <link>/posts/dream-team-fifa20/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>nagahamaVH.github.io/posts/dream-team-fifa20/</guid>
+      <guid>/posts/dream-team-fifa20/</guid>
       <description>In my childhood me and my friends used to guess what would be the soccer Dream Team of the season. We hadn&amp;rsquo;t any metrics to compare our choices, so the results were doubtful.
 Recently, I found this dataset about FIFA on Kaggle. The data contains the scores of 18.279 players in all of the 27 soccer positions (goalkeeper, centre forward, etc).
 Motivated by my childhood I used this data and Linear Programming (LP) to find the set of players which sum maximizes the overall team score, in other words, the Dream Team.</description>
