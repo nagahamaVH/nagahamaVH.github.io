@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Victor Nagahama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Classification of soybean seeds based on images via Transfer Learning</title>
+      <link>/posts/soybean-image-classification/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/soybean-image-classification/</guid>
+      <description>In July of 2020 I&amp;rsquo;ve joined the AI Residency program from HUB of Artificial Intelligence, in this program the AI residents perform proof of concepts (POC) for companies meanwhile have classes from researchers of Advanced Institute for Artificial Intelligence.
+One of the challenges as an AI resident was to classify soybeans based on images in order to improve the selection of seeds. Soybean seeds are classified according to their qualities and it&amp;rsquo;s an important information to industry and soybean farmers because of the control quality.</description>
+    </item>
     
     <item>
       <title>Understanding the data in data science problems</title>
